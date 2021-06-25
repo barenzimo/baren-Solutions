@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #fff;
+}
+.nav-link,
+nav-link:visited {
+  color: #3b14a7 !important;
+}
+.brand {
+  size: 50px;
+  font-weight: 700;
+  color: #f25c69 !important;
+  font-size: 1.8rem !important;
+}
+
+.when-active {
+  font-weight: bold !important;
+  color: #f25c69 !important;
+  border-bottom: 1px solid #333333 !important;
+}
